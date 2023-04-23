@@ -16,3 +16,14 @@ Team Members:
 1. Dhakshesh T L A    - dhakshesh@student.tce.edu
 2. Dinesh Kumaar M S  - dineshkumaar@student.tce.edu
 3. Venkadesh S        - venkadesh@student.tce.edu
+
+Project Frontend details :
+ -Frontend of the project is developed using Reactjs.
+ -Styled using tailwind css.
+ -It is completely responsive.
+ 
+ -we had added 4 mobiles in the website. 
+ -On clicking , it will lead to details page of the mobile.
+ -Here comment box is added.
+ -We can comment and it will be updated live.
+ -As its a demo build , we can directly see the category under which the comment falls.
